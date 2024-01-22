@@ -19,4 +19,4 @@ Sistema *gerenciador* de banco de dados
  **Linhas ou tupla**
  -Registro
 
-Karut
+
