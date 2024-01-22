@@ -20,3 +20,9 @@ Sistema *gerenciador* de banco de dados
  -Registro
 
 
+# Trabalhando com uma SQL#
+
+##Conectando : mysql -h localhost -u root
+-h : host(computador que vc vai entrar)
+-u : usuario
+-p : senha
