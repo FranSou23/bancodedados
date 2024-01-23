@@ -26,3 +26,24 @@ Sistema *gerenciador* de banco de dados
 -h : host(computador que vc vai entrar)
 -u : usuario
 -p : senha
+
+ show databases;  : ele mostra os bancos de dados do meu servidor.
+
+ drop database :apaga banco de dados
+ 
+ delete : apaga linha
+
+ ; :sempre encerra o comando
+
+use : qual banco de dados ira usar
+
+create table : cria tabela
+
+() : banco de dados
+
+desc : mostra a estrutura da tabela
+
+show tables : exibe a estrutura da tabela
+
+int
+
